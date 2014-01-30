@@ -1,0 +1,73 @@
+/*New Comment*/
+
+body {
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+
+ol {
+	list-style-type: none;
+	float: right;
+	margin-right: 20px;
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+}
+
+#container {
+	padding-top: 150px;
+	text-align: center;
+}
+
+form {
+	margin: 20px;
+	
+}
+
+#search {
+	border: 1px solid #ccc;
+	height: 30px;
+	width: 550px;
+}
+
+#buttons {
+	
+}
+
+button {
+	margin:16px 8px;
+	border: 1px solid #dcdcdc;
+	padding: 0 8px;
+	height: 29px;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 2px;
+	min-width: 54px;
+	display: inline-block;
+	background: #f5f5f5;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0; 
+	background: #f2f2f2;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+}
+
+#footer ol {
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+
+#footer .right-items {
+	float: right;
+}
+
+#footer li {
+	padding: 0 20px;
+}
